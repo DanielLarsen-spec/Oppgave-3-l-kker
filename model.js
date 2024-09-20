@@ -1,0 +1,2 @@
+let inputString = "";
+let reversedString = "";
